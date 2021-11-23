@@ -4100,3 +4100,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.23-17.42.15:363][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widget/WB_MainMenu]
 [2021.11.23-17.42.15:416][468]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal_multiplayer/MultiplayerGame/Saved/WB_MainMenu_Auto73A1569134AF0BD6CE7036A937ECCBD54.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal_multiplayer/MultiplayerGame/Saved/Autosaves/Game/Blueprints/Widget/WB_MainMenu_Auto7.uasset'
 [2021.11.23-17.42.15:417][468]LogFileHelpers: Auto-saving content packages took 0.055
+[2021.11.23-17.44.07:914][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.23-17.44.07:981][954]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal_multiplayer/MultiplayerGame/Saved/WB_MainMenu9C5B14C44428DFDB494C4BAE4952B939.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal_multiplayer/MultiplayerGame/Content/Blueprints/Widget/WB_MainMenu.uasset'
+[2021.11.23-17.44.07:988][954]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal_multiplayer/MultiplayerGame/Saved/Fall_Guys_Font1D281C9A440499A9A9B227AD894B16B5.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal_multiplayer/MultiplayerGame/Content/Blueprints/Widget/Menu_Assets/Fall_Guys_Font.uasset'
+[2021.11.23-17.44.07:990][954]LogSavePackage: Moving '../../../../../../Users/Paki/Documents/GitHub/Unreal_multiplayer/MultiplayerGame/Saved/TitanOne-Regular6D63147E4F3908B792034CAAC86B71EF.tmp' to '../../../../../../Users/Paki/Documents/GitHub/Unreal_multiplayer/MultiplayerGame/Content/Blueprints/Widget/Menu_Assets/TitanOne-Regular.uasset'
+[2021.11.23-17.44.08:003][954]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-17.44.08:003][954]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget/WB_MainMenu.WB_MainMenu
+[2021.11.23-17.44.08:003][954]LogContentValidation: Display: Validating Font /Game/Blueprints/Widget/Menu_Assets/Fall_Guys_Font.Fall_Guys_Font
+[2021.11.23-17.44.08:003][954]LogContentValidation: Display: Validating FontFace /Game/Blueprints/Widget/Menu_Assets/TitanOne-Regular.TitanOne-Regular
